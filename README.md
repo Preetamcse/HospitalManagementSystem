@@ -1,4 +1,4 @@
-# MediTrack / HospitalManagementSystem
+# MediTrack / HospitalManagement
 # 📜 Table of Contents
 - Introduction  
 - Features  
